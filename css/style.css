@@ -82,3 +82,8 @@ body, html {
     background-color: #555;
     color: white;
   }
+#space{  margin-left: 9pc;
+}
+#card-space{
+  margin-left: 2pc;
+}
