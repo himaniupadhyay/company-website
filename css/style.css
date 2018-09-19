@@ -7,9 +7,11 @@ body {
   margin-bottom: 20px;
 }
 
-.navbar-fixed-top a{
-  color: black;
+.nav-link {
+  padding-right: .5rem !important;
+  padding-left: .5rem !important;
 }
+
 .text-white
 {
   text-align: center;
